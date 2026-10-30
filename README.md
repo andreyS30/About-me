@@ -28,12 +28,14 @@ Wireshark TCP/IP DNS DHCP
 
 🎓 Education & Learning
 
- 	Status
-  
 BSc Computing — UOC University 	2018-2021
+
 Master degree Computing - UOC University 2021-2023
+
 NETWORKWALKS Cybersecurity Internship 	In progress
+
 Cisco Networking Academy — cybersecurity courses 	Learning in progress
+
 Juniper Open Learning — JNCIA-Junos preparation 	Learning in progress
 
 🎯 Currently Focusing On
